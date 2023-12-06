@@ -1,4 +1,4 @@
-#soll sprechtempo berechnen
+#calculates speechrate & articulation rate 
 clearinfo
 path$ = "./"
 
